@@ -1,2 +1,2 @@
 # Banana GFX Tool
-GFX Tool For PUBG, BGMI!
+An Android GFX/Customisation Tool For PUBG, BGMI!
